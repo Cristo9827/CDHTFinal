@@ -1,0 +1,1 @@
+Funsionalidad de pago completa
